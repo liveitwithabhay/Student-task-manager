@@ -72,6 +72,7 @@ These issues helped build real-world debugging and problem-solving skills.
 - Using Git for version control
 
 ---
+<img width="626" height="292" alt="Screenshot 2026-01-28 105458" src="https://github.com/user-attachments/assets/1dca0e6f-6893-4110-beb8-379c51deecd1" />
 
 ## Author
 
